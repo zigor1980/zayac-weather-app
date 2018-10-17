@@ -1,0 +1,9 @@
+.form {
+    position: absolute;
+    box-sizing: border-box;
+    padding: 5px;
+    top: 10px;
+    left: 10px;
+    display: inline-block;
+    width: 400px;
+}

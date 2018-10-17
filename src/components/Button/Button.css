@@ -1,0 +1,23 @@
+.button {
+
+}
+
+.button_search {
+    position: absolute;
+    box-sizing: border-box;
+    height: 24px;
+    width: 24px;
+    border: 2px solid #00f;
+    opacity: .2;
+    border-radius: 50%;
+    top: 6px;
+    right: 5px;
+    background: transparent;
+    transition: opacity .1s linear;
+    color: #00f;
+}
+
+.button_search_active {
+    opacity: 1;
+}
+

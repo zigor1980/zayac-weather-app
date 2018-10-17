@@ -1,0 +1,19 @@
+.input {
+    box-sizing: border-box;
+    background: #ffffff;
+    padding: 5px;
+}
+.input_search {
+    width: 100%;
+    padding-right: 30px;
+    height: 36px;
+    font-size: 18px;
+    border: 1px solid #00f;
+    border-radius: 5px;
+    outline: none;
+    transition: all ease .2s;
+    margin-bottom: 10px;
+}
+.input_search:focus {
+    box-shadow: 0 0 5px #00f;
+}
